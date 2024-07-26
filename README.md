@@ -24,4 +24,4 @@ O objetivo deste projeto é permitir que os usuários insiram um endereço de e-
  HTML: Estruturação do formulário de email, incluindo campo de entrada e mensagem de feedback.
 
  ## ``Resultado``
- ![](img/gif.resultado.mp4)
+ ![](img/img.gif)
