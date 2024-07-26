@@ -7,6 +7,7 @@
 *[Funcionalidades](#foncionalidades)
 *[Validação de Email](#validação-de-email)
 *[Resultado](#resultado)
+*[Elementos](#elementos)
 
 ## ``Introdução CPF``
 O objetivo dessa página é permitir que um usuário insira um número de CPF e, ao clicar em "VALIDAR", seja realizada uma validação através de código JavaScript (que estaria no arquivo cpf.js). O resultado dessa validação pode ser exibido na área identificada pelo parágrafo com id="message".
@@ -22,6 +23,20 @@ O objetivo deste projeto é permitir que os usuários insiram um endereço de e-
  ## ``Validação de Email``
  JavaScript: Implementação da validação de email para verificar se o formato inserido é válido, fornecendo feedback instantâneo ao usuário.
  HTML: Estruturação do formulário de email, incluindo campo de entrada e mensagem de feedback.
+
+## ``Elementos``
+ Elementos utilizados no JavaScript da validação do CPF:
+ ELEMENT,ID,BUBMIT,PREVENTDEFAULT,CONST,VALUE,TEXTCONTENT.
+
+ ## ``Explicação do código``
+ Obtendo o Valor do Campo de E-mail:
+ ![](img/img.captura.png)
+
+ Criando um Padrão de Expressão Regular:
+ ![](img/img.papitura.png)
+
+ Validando o E-mail e Atualizando a Mensagem:
+ ![](img/img.sapitura.png)
 
  ## ``Resultado``
  ![](img/img.gif)
